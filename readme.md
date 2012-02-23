@@ -31,7 +31,7 @@
 6. **Masked input image:** https://github.com/digitalBush/jquery.maskedinput & http://digitalbush.com/projects/masked-input-plugin/
 7. **DataTables:** https://github.com/DataTables/DataTables
 
-### Utilities:
+### Utilities
 
 1. **Throttle / debounce:** https://github.com/cowboy/jquery-throttle-debounce
 2. **jQuery resize event:** https://github.com/cowboy/jquery-resize
