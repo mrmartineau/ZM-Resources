@@ -27,7 +27,7 @@
 2. **Chosen:** https://github.com/harvesthq/chosen
 3. **Skeleton tabs:** https://github.com/dhgamache/Skeleton/blob/master/javascripts/tabs.js
 4. **jQuery Validation:** https://github.com/jzaefferer/jquery-validation
-5: **<dl> tabs:** https://github.com/samcroft/lightweight-semantic-jquery-tabs & http://samcroft.co.uk/2011/lightweight-semantic-jquery-tabs-plugin/
+5: **dl tabs:** https://github.com/samcroft/lightweight-semantic-jquery-tabs & http://samcroft.co.uk/2011/lightweight-semantic-jquery-tabs-plugin/
 6. **Masked input image:** https://github.com/digitalBush/jquery.maskedinput & http://digitalbush.com/projects/masked-input-plugin/
 7. **DataTables:** https://github.com/DataTables/DataTables
 
