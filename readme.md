@@ -1,6 +1,6 @@
 # Resources
 
-## jQuery Plugins
+## jQuery
 
 ### Layout & Effects
 
@@ -14,6 +14,9 @@
 8. **Supersized:** https://github.com/buildinternet/supersized
 9. **Backstretch:** https://github.com/srobbin/jquery-backstretch
 10. **Smooth Scroll:** https://github.com/kswedberg/jquery-smooth-scroll
+11. **Overscroll:** http://www.azoffdesign.com/overscroll
+12. **Curtain.js:** https://github.com/Victa/curtain.js & http://curtain.victorcoulon.fr
+13. **Transit:** https://github.com/rstacruz/jquery.transit & http://ricostacruz.com/jquery.transit/
 
 ### Parallax
 
@@ -41,15 +44,22 @@
 6. **Live Query:** https://github.com/brandonaaron/livequery
 7. **Calculation:** http://www.pengoworks.com/workshop/jquery/calculation/calculation.plugin.htm
 8. **Jwerty:** http://keithcirkel.co.uk/jwerty/ & https://github.com/keithamus/jwerty
+9. **jQuery.actual:** https://github.com/dreamerslab/jquery.actual
+10. **accounting.js:** https://github.com/josscrowcroft/accounting.js & http://josscrowcroft.github.com/accounting.js/
+11. **Genealogy:** https://github.com/spicyj/jquery-genealogy
 
 ### Media & typography
 
 1. **FitText.js:** https://github.com/davatron5000/FitText.js
 2. **FitVids.js:** https://github.com/davatron5000/FitVids.js
 3. **Lettering.js:** https://github.com/davatron5000/Lettering.js
+4. **slabtext:** https://github.com/freqdec/slabText
+5. **BigText:** https://github.com/zachleat/BigText
 
-### Polyfills
-1. **Placeholder:** https://github.com/mathiasbynens/jquery-placeholder
+### Feature detection & Polyfills
+1. **Modernizr:** https://github.com/Modernizr/Modernizr
+2. **Placeholder:** https://github.com/mathiasbynens/jquery-placeholder
+3. **The All-In-One Entirely-Not-Alphabetical No-Bullshit Guide to HTML5 Fallbacks:** https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills
 
 ### Interesting
 1. **Proximity Event:** https://github.com/padolsey/jQuery-Plugins/tree/master/proximity-event/
@@ -57,7 +67,17 @@
 ### Ajax etc
 1. **Cross domain AJAX:** https://github.com/padolsey/jQuery-Plugins/tree/master/cross-domain-ajax/
 
+### Responsive
+1. **Responsive Menu:** https://github.com/mattkersley/Responsive-Menu
 
+## Javascript
+
+### General
+1. **Smoke.js:** https://github.com/jyoungblood/smoke.js/ & http://ssssnakes.com/smoke/
+2. **ContentLoaded (DOMready):** https://github.com/dperini/ContentLoaded
+
+### HTML5
+1. **History.js:** https://github.com/fortes/history.js
 
 ## Frameworks / Boilerplates / Bootstraps
 
@@ -65,4 +85,14 @@
 2. **Twitter Bootstrap:** https://github.com/twitter/bootstrap
 3. **HTML5 boilerplate:** https://github.com/h5bp/html5-boilerplate
 4. **Foundation:** https://github.com/zurb/foundation
+
+## Mobile
+1. **Add to homescreen:** https://github.com/cubiq/add-to-homescreen
+
+## Canvas
+1. **Fabric.js:** http://github.com/kangax/fabric.js & http://fabricjs.com/
+2. **Color Thief:** https://github.com/lokesh/color-thief
+
+## CSS
+1. **Responsive.less:** https://github.com/paulmist/responsive.less
 
