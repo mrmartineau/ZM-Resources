@@ -40,13 +40,14 @@
 2. **jQuery resize event:** https://github.com/cowboy/jquery-resize
 3. **equalizeBottoms:** https://github.com/cowboy/jquery-equalizebottoms
 4. **Collapse:** https://github.com/danielstocks/jQuery-Collapse
-5. **imagesLoaded:** https://github.com/desandro/imagesloaded
+5. **ImagesLoaded:** https://github.com/desandro/imagesloaded
 6. **Live Query:** https://github.com/brandonaaron/livequery
 7. **Calculation:** http://www.pengoworks.com/workshop/jquery/calculation/calculation.plugin.htm
 8. **Jwerty:** http://keithcirkel.co.uk/jwerty/ & https://github.com/keithamus/jwerty
 9. **jQuery.actual:** https://github.com/dreamerslab/jquery.actual
 10. **accounting.js:** https://github.com/josscrowcroft/accounting.js & http://josscrowcroft.github.com/accounting.js/
 11. **Genealogy:** https://github.com/spicyj/jquery-genealogy
+12. **Truncator:** https://github.com/henrik/jquery.truncator.js & http://henrik.nyh.se/examples/truncator/
 
 ### Media & typography
 
