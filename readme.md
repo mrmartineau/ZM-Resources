@@ -88,8 +88,10 @@
 3. **JavascriptMVC:** http://javascriptmvc.com/
 
 ### Templating
+1. **Underscore:** http://documentcloud.github.com/underscore/
 3. **Mustache:** http://mustache.github.com/
 3. **Tempo:** http://tempojs.com/
+4. **Benchmarking:** http://viget.com/extend/benchmarking-javascript-templating-libraries
 
 ### Loaders
 1. **Require.js:** http://requirejs.org/ - A file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
