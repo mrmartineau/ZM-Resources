@@ -5,7 +5,7 @@
 ### Layout & Effects
 
 1. **[CarouFredSel](http://caroufredsel.frebsite.nl/):** http://coolcarousels.frebsite.nl/
-2. **[Fancybox](http://fancyapps.com/fancybox/):**
+2. **[Fancybox](http://fancyapps.com/fancybox/)** Lightbox
 3. **[Waypoints](https://github.com/imakewebthings/jquery-waypoints):** Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element
 4. **[Isotope](https://github.com/desandro/isotope):** An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts
 5. **[Masonry](https://github.com/desandro/masonry):** The flip-side of CSS Floats. jQuery plugin that rearranges item elements to a grid
@@ -17,42 +17,39 @@
 
 ### Scrolling
 
-1. **Scrollorama:** https://github.com/johnpolacek/scrollorama & http://johnpolacek.github.com/scrollorama/ - The jQuery plugin for doing cool scrolly stuff
-2. **Scroll Path:** https://github.com/JoelBesada/scrollpath & http://joelb.me/scrollpath/
-3. **Stellar.js:** https://github.com/markdalgleish/stellar.js &http://markdalgleish.com/projects/stellar.js/
-4. **Smooth Scroll:** https://github.com/kswedberg/jquery-smooth-scroll - Automatically make same-page links scroll smoothly
-5. **Overscroll:** http://www.azoffdesign.com/overscroll (not sure about this one...)
-6. **Infinite Scroll:** https://github.com/paulirish/infinite-scroll & https://github.com/paulirish/infinite-scroll/issues/65
+1. **[Scrollorama](https://github.com/johnpolacek/scrollorama):** http://johnpolacek.github.com/scrollorama/ - The jQuery plugin for doing cool scrolly stuff
+2. **[Scroll Path](https://github.com/JoelBesada/scrollpath):** http://joelb.me/scrollpath/
+3. **[Stellar.js](https://github.com/markdalgleish/stellar.js):** http://markdalgleish.com/projects/stellar.js/
+4. **[Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll):** Automatically make same-page links scroll smoothly
+5. **[Overscroll](http://www.azoffdesign.com/overscroll):** (not sure about this one...)
+6. **[Infinite Scroll](https://github.com/paulirish/infinite-scroll):** https://github.com/paulirish/infinite-scroll/issues/65
 
 ### UI & Forms
 
-1. **h5Validate:** https://github.com/dilvie/h5Validate & http://ericleads.com/h5validate/ - An HTML5 form validation plugin
-2. **Chosen:** https://github.com/harvesthq/chosen - A library for making long, unwieldy select boxes more friendly
-3. **Skeleton tabs:** https://github.com/dhgamache/Skeleton/blob/master/javascripts/tabs.js
-4. **jQuery Validation:** https://github.com/jzaefferer/jquery-validation
-5. **dl tabs:** https://github.com/samcroft/lightweight-semantic-jquery-tabs & http://samcroft.co.uk/2011/lightweight-semantic-jquery-tabs-plugin/
-6. **Masked input image:** https://github.com/digitalBush/jquery.maskedinput & http://digitalbush.com/projects/masked-input-plugin/ - Allows a user to more easily enter fixed width input where you would like them to enter the data in a certain format (dates,phone numbers, etc).
-7. **DataTables:** https://github.com/DataTables/DataTables
-8 **Tangle:** http://worrydream.com/Tangle/ - Tangle is a JavaScript library for creating reactive documents. Your readers can interactively explore possibilities, play with parameters, and see the document update immediately. Tangle is super-simple and easy to learn.
+1. **[h5Validate](https://github.com/dilvie/h5Validate):** http://ericleads.com/h5validate/ - An HTML5 form validation plugin
+2. **[Chosen](https://github.com/harvesthq/chosen):** A library for making long, unwieldy select boxes more friendly
+3. **[Skeleton tabs](https://github.com/dhgamache/Skeleton/blob/master/javascripts/tabs.js)**
+4. **[jQuery Validation](https://github.com/jzaefferer/jquery-validation)**
+5. **[dl tabs](https://github.com/samcroft/lightweight-semantic-jquery-tabs):** http://samcroft.co.uk/2011/lightweight-semantic-jquery-tabs-plugin/
+6. **[Masked input image](https://github.com/digitalBush/jquery.maskedinput):** http://digitalbush.com/projects/masked-input-plugin/ - Allows a user to more easily enter fixed width input where you would like them to enter the data in a certain format (dates,phone numbers, etc)
+7. **[DataTables](https://github.com/DataTables/DataTables)**
+8 **[Tangle](http://worrydream.com/Tangle/):** Tangle is a JavaScript library for creating reactive documents. Your readers can interactively explore possibilities, play with parameters, and see the document update immediately. Tangle is super-simple and easy to learn.
 
 ### Utilities
 
-1. **Throttle / debounce:** https://github.com/cowboy/jquery-throttle-debounce - Allows you to rate-limit your functions in multiple useful ways. Passing a delay and callback to $.throttle returns a new function that will execute no more than once every delay milliseconds.
-2. **jQuery resize event:** https://github.com/cowboy/jquery-resize - With jQuery resize event, you can bind resize event handlers to elements other than window, for super-awesome-resizing-greatness!
-3. **equalizeBottoms:** https://github.com/cowboy/jquery-equalizebottoms - With jQuery equalizeBottoms you can "equalize" the bottoms of multiple elements, making columns heights even, even when CSS refuses to help.
-4. **Collapse:** https://github.com/danielstocks/jQuery-Collapse - A lightweight plugin for enabling expandable/collapsible content with cookie support
-5. **ImagesLoaded:** https://github.com/desandro/imagesloaded - A jQuery plugin that triggers a callback after all the selected/child images have been loaded. Because you can't do .load() on cached images.
-6. **Live Query:** https://github.com/brandonaaron/livequery - Live Query utilizes the power of jQuery selectors by binding events or firing callbacks for matched elements auto-magically, even after the page has been loaded and the DOM updated
-7. **Calculation:** http://www.pengoworks.com/workshop/jquery/calculation/calculation.plugin.htm - Designed to give easy-to-use jQuery functions for commonly used mathematical functions.
-8. **Jwerty:** http://keithcirkel.co.uk/jwerty/ & https://github.com/keithamus/jwerty - A JS lib which allows you to bind, fire and assert key combination strings against elements and events
-9. **jQuery.actual:** https://github.com/dreamerslab/jquery.actual - Get the actual width/height of invisible DOM elements
-10. **accounting.js:** https://github.com/josscrowcroft/accounting.js & http://josscrowcroft.github.com/accounting.js/ - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies
-11. **Genealogy:** https://github.com/spicyj/jquery-genealogy - A helper plugin for your (or for your element's) extended relatives
-12. **Truncator:** https://github.com/henrik/jquery.truncator.js & http://henrik.nyh.se/examples/truncator/ - Plugin to truncate HTML text with "more"/"less" links.
-13. **Flexible nav:** https://github.com/gre/flexible-nav & http://demo.greweb.fr/flexible-nav/ - Improve your navigation experience - this jQuery lib improves a webpage navigation and helps to visualize different sections. of a document, an article,.. any web page.
-13. **:**
-13. **:**
-13. **:**
+1. **[Throttle / debounce](https://github.com/cowboy/jquery-throttle-debounce):** Allows you to rate-limit your functions in multiple useful ways. Passing a delay and callback to $.throttle returns a new function that will execute no more than once every delay milliseconds.
+2. **[jQuery resize event](https://github.com/cowboy/jquery-resize):** With jQuery resize event, you can bind resize event handlers to elements other than window, for super-awesome-resizing-greatness!
+3. **[equalizeBottoms](https://github.com/cowboy/jquery-equalizebottoms):** With jQuery equalizeBottoms you can "equalize" the bottoms of multiple elements, making columns heights even, even when CSS refuses to help.
+4. **[Collapse](https://github.com/danielstocks/jQuery-Collapse):** A lightweight plugin for enabling expandable/collapsible content with cookie support
+5. **[ImagesLoaded](https://github.com/desandro/imagesloaded):** A jQuery plugin that triggers a callback after all the selected/child images have been loaded. Because you can't do .load() on cached images.
+6. **[Live Query](https://github.com/brandonaaron/livequery):** Live Query utilizes the power of jQuery selectors by binding events or firing callbacks for matched elements auto-magically, even after the page has been loaded and the DOM updated
+7. **[Calculation](http://www.pengoworks.com/workshop/jquery/calculation/calculation.plugin.htm):** Designed to give easy-to-use jQuery functions for commonly used mathematical functions.
+8. **[Jwerty](http://keithcirkel.co.uk/jwerty/):** https://github.com/keithamus/jwerty - A JS lib which allows you to bind, fire and assert key combination strings against elements and events
+9. **[jQuery.actual](https://github.com/dreamerslab/jquery.actual):** Get the actual width/height of invisible DOM elements
+10. **[accounting.js](https://github.com/josscrowcroft/accounting.js):** http://josscrowcroft.github.com/accounting.js/ - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies
+11. **[Genealogy](https://github.com/spicyj/jquery-genealogy):** A helper plugin for your (or for your element's) extended relatives
+12. **[Truncator](https://github.com/henrik/jquery.truncator.js):** http://henrik.nyh.se/examples/truncator/ - Plugin to truncate HTML text with "more"/"less" links.
+13. **[Flexible nav](https://github.com/gre/flexible-nav):** http://demo.greweb.fr/flexible-nav/ - Improve your navigation experience - this jQuery lib improves a webpage navigation and helps to visualize different sections. of a document, an article,.. any web page.
 
 ### Media & typography
 
@@ -71,7 +68,7 @@
 1. **Cross domain AJAX:** https://github.com/padolsey/jQuery-Plugins/tree/master/cross-domain-ajax/
 
 ### Responsive
-1. **Responsive Menu:** https://github.com/mattkersley/Responsive-Menu - Turns any <ol> or <ul> into a <select> for mobiles and low browser sizes
+1. **Responsive Menu:** https://github.com/mattkersley/Responsive-Menu - Turns any &lt;ol&gt; or &lt;ul&gt; into a &lt;select&gt; for mobiles and low browser sizes
 2. **FitText.js:** https://github.com/davatron5000/FitText.js
 3. **FitVids.js:** https://github.com/davatron5000/FitVids.js
 
