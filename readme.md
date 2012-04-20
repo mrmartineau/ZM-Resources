@@ -4,25 +4,25 @@
 
 ### Layout & Effects
 
-1. **CarouFredSel:** http://caroufredsel.frebsite.nl/ & http://coolcarousels.frebsite.nl/
-2. **Fancybox:** http://fancyapps.com/fancybox/
-3. **Waypoints:** https://github.com/imakewebthings/jquery-waypoints - Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element
-4. **Isotope:** https://github.com/desandro/isotope - An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts
-5. **Masonry:** https://github.com/desandro/masonry - The flip-side of CSS Floats. jQuery plugin that rearranges item elements to a grid
-6. **Infinite Scroll:** https://github.com/paulirish/infinite-scroll & https://github.com/paulirish/infinite-scroll/issues/65
-7. **Pageslide:** https://github.com/srobbin/jquery-pageslide & http://srobbin.com/blog/jquery-pageslide/ - Plugin which slides a webpage over to reveal an additional interaction pane
-8. **Supersized:** https://github.com/buildinternet/supersized
-9. **Backstretch:** https://github.com/srobbin/jquery-backstretch
-10. **Smooth Scroll:** https://github.com/kswedberg/jquery-smooth-scroll - Automatically make same-page links scroll smoothly
-11. **Overscroll:** http://www.azoffdesign.com/overscroll (not sure about this one...)
-12. **Curtain.js:** https://github.com/Victa/curtain.js & http://curtain.victorcoulon.fr
-13. **Transit:** https://github.com/rstacruz/jquery.transit & http://ricostacruz.com/jquery.transit/ - Super-smooth CSS3 transformations and transitions for jQuery
+1. **[CarouFredSel](http://caroufredsel.frebsite.nl/):** http://coolcarousels.frebsite.nl/
+2. **[Fancybox](http://fancyapps.com/fancybox/):**
+3. **[Waypoints](https://github.com/imakewebthings/jquery-waypoints):** Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element
+4. **[Isotope](https://github.com/desandro/isotope):** An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts
+5. **[Masonry](https://github.com/desandro/masonry):** The flip-side of CSS Floats. jQuery plugin that rearranges item elements to a grid
+6. **[Pageslide](https://github.com/srobbin/jquery-pageslide):** Plugin which slides a webpage over to reveal an additional interaction pane
+7. **[Supersized](https://github.com/buildinternet/supersized)**
+8. **[Backstretch](https://github.com/srobbin/jquery-backstretch)**
+9. **[Curtain.js](https://github.com/Victa/curtain.js):** http://curtain.victorcoulon.fr
+10. **[https://github.com/rstacruz/jquery.transit](https://github.com/rstacruz/jquery.transit):** http://ricostacruz.com/jquery.transit/ - Super-smooth CSS3 transformations and transitions for jQuery
 
-### Parallax
+### Scrolling
 
 1. **Scrollorama:** https://github.com/johnpolacek/scrollorama & http://johnpolacek.github.com/scrollorama/ - The jQuery plugin for doing cool scrolly stuff
 2. **Scroll Path:** https://github.com/JoelBesada/scrollpath & http://joelb.me/scrollpath/
 3. **Stellar.js:** https://github.com/markdalgleish/stellar.js &http://markdalgleish.com/projects/stellar.js/
+4. **Smooth Scroll:** https://github.com/kswedberg/jquery-smooth-scroll - Automatically make same-page links scroll smoothly
+5. **Overscroll:** http://www.azoffdesign.com/overscroll (not sure about this one...)
+6. **Infinite Scroll:** https://github.com/paulirish/infinite-scroll & https://github.com/paulirish/infinite-scroll/issues/65
 
 ### UI & Forms
 
@@ -33,6 +33,7 @@
 5. **dl tabs:** https://github.com/samcroft/lightweight-semantic-jquery-tabs & http://samcroft.co.uk/2011/lightweight-semantic-jquery-tabs-plugin/
 6. **Masked input image:** https://github.com/digitalBush/jquery.maskedinput & http://digitalbush.com/projects/masked-input-plugin/ - Allows a user to more easily enter fixed width input where you would like them to enter the data in a certain format (dates,phone numbers, etc).
 7. **DataTables:** https://github.com/DataTables/DataTables
+8 **Tangle:** http://worrydream.com/Tangle/ - Tangle is a JavaScript library for creating reactive documents. Your readers can interactively explore possibilities, play with parameters, and see the document update immediately. Tangle is super-simple and easy to learn.
 
 ### Utilities
 
@@ -48,6 +49,10 @@
 10. **accounting.js:** https://github.com/josscrowcroft/accounting.js & http://josscrowcroft.github.com/accounting.js/ - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies
 11. **Genealogy:** https://github.com/spicyj/jquery-genealogy - A helper plugin for your (or for your element's) extended relatives
 12. **Truncator:** https://github.com/henrik/jquery.truncator.js & http://henrik.nyh.se/examples/truncator/ - Plugin to truncate HTML text with "more"/"less" links.
+13. **Flexible nav:** https://github.com/gre/flexible-nav & http://demo.greweb.fr/flexible-nav/ - Improve your navigation experience - this jQuery lib improves a webpage navigation and helps to visualize different sections. of a document, an article,.. any web page.
+13. **:**
+13. **:**
+13. **:**
 
 ### Media & typography
 
@@ -62,9 +67,6 @@
 2. **Placeholder:** https://github.com/mathiasbynens/jquery-placeholder
 3. **The All-In-One Entirely-Not-Alphabetical No-Bullshit Guide to HTML5 Fallbacks:** https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills
 
-### Interesting
-1. **Proximity Event:** https://github.com/padolsey/jQuery-Plugins/tree/master/proximity-event/
-
 ### Ajax etc
 1. **Cross domain AJAX:** https://github.com/padolsey/jQuery-Plugins/tree/master/cross-domain-ajax/
 
@@ -76,10 +78,13 @@
 ### Mobile
 1. **Viewporter:** https://github.com/zynga/viewporter - Viewporter is a open-source JavaScript project by Zynga to ease mobile viewport management. It specifically simplifies the part of setting up the right screen dimensions and removes the pain from handling the viewport meta tag manually.
 
+### Interesting
+1. **Proximity Event:** https://github.com/padolsey/jQuery-Plugins/tree/master/proximity-event/
+
 ## Javascript
 
 ### General
-1. **Smoke.js:** https://github.com/jyoungblood/smoke.js/ & http://ssssnakes.com/smoke/
+1. **Smoke.js:** https://github.com/jyoungblood/smoke.js & http://ssssnakes.com/smoke/ - framework-agnostic styled alert system for javascript
 2. **ContentLoaded (DOMready):** https://github.com/dperini/ContentLoaded
 
 ### JS MVC's
@@ -88,10 +93,14 @@
 3. **JavascriptMVC:** http://javascriptmvc.com/
 
 ### Templating
+1. **Mustache:** http://mustache.github.com/
+2. **Tempo:** http://tempojs.com/
+3. **Benchmarking:** http://viget.com/extend/benchmarking-javascript-templating-libraries
+4. **Handlebars:** http://handlebarsjs.com/
+
+### Helper / Utility Libraries
 1. **Underscore:** http://documentcloud.github.com/underscore/
-3. **Mustache:** http://mustache.github.com/
-3. **Tempo:** http://tempojs.com/
-4. **Benchmarking:** http://viget.com/extend/benchmarking-javascript-templating-libraries
+2. **URI.js:** https://github.com/medialize/URI.js - Javascript URL mutation library
 
 ### Loaders
 1. **Require.js:** http://requirejs.org/ - A file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
@@ -111,11 +120,12 @@
 2. **Zynga Viewporter:** https://github.com/zynga/viewporter
 3. **Tappable:** https://github.com/cheeaun/tappable - A simple, standalone library to invoke the tap event for touch-friendly web browsers
 3. **Overthrow:** https://github.com/filamentgroup/Overthrow - A tiny, no-frills, framework-independent, targeted overflow: auto polyfill for use in responsive design
-3. **:**
+3. **Hammer.js:** https://github.com/eightmedia/hammer.js & http://eightmedia.github.com/hammer.js/ - A javascript library for multi-touch gestures
 3. **:**
 
 ## Canvas
 1. **Fabric.js:** http://github.com/kangax/fabric.js & http://fabricjs.com/ - A framework that makes it easy to work with HTML5 canvas element.
+2. **Caman.js:** http://camanjs.com/ - The main focus of CamanJS is manipulating images using the HTML5 canvas and Javascript.
 2. **Color Thief:** https://github.com/lokesh/color-thief
 
 ## LESS
